@@ -1,0 +1,35 @@
+h1{
+    font-style: italic;
+    font-size: 200%;
+    font-weight: bold;
+    color: red;
+    background-color: steelblue;
+
+}
+
+p{
+    font-style: italic;
+    font-size: 200%;
+    font-weight: bold;
+    color: steelblue;
+    background-color: red;
+}
+a{
+    padding: 12%;
+
+
+}
+
+.flottegauche{
+    width: 60%;
+    background-position: center;
+    
+}
+
+div {
+    background-color: saddlebrown;
+}
+
+
+
+
